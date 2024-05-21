@@ -1,0 +1,37 @@
+h1 {
+	color: black;
+	text-align: center;
+	font-family: jost;
+	font-size: 50px;
+}
+.topnav {
+   background-color: #333333;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #04AA6D;
+   color: white;
+}
+
+ img {
+  border: 3px; 
+  border-style: solid; 
+  border-color: black;
+  border-collapse: collapse;
+}
+
